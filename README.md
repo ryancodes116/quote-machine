@@ -2,4 +2,6 @@
 
 Simple project that picks a random Bob Ross quote to display when the "New Quote" button is clicked.
 
-![](src/assets/desktop-preview.png)
+Built using Vue.js
+
+![]('src/assets/desktop-preview.png')
