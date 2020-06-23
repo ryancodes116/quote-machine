@@ -24,7 +24,7 @@ export default {
 
 body {
   min-height: 100vh;
-  background-image: url('./assets/painting.jpg');
+  background-image: url('./assets/mountains.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
