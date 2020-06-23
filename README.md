@@ -1,24 +1,5 @@
-# quote-machine
+# Bob Ross Quote Machine
 
-## Project setup
-```
-npm install
-```
+Simple project that picks a random Bob Ross quote to display when the "New Quote" button is clicked.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](src/assets/desktop-preview.png)
