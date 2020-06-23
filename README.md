@@ -4,4 +4,4 @@ Simple project that picks a random Bob Ross quote to display when the "New Quote
 
 Built using Vue.js
 
-![]('src/assets/desktop-preview.png')
+![](./src/assets/desktop-preview.png)
