@@ -6,7 +6,7 @@
           <div class="card mt-5">
             <div class="card-body">
               <div class="card-text">
-                <h2 class="quote">{{ quote }}</h2>
+                <h2 class="quote">"{{ quote }}"</h2>
                 <p class="author">- Bob Ross</p>
               </div>
             </div>
@@ -49,6 +49,7 @@ button {
 }
 
 .quote {
+  line-height: 1.5;
   margin-bottom: 2rem;
 }
 

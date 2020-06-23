@@ -5,13 +5,13 @@
 </template>
 
 <script>
-import QuoteMachine from "./components/QuoteMachine";
+import QuoteMachine from './components/QuoteMachine';
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
-    QuoteMachine
-  }
+    QuoteMachine,
+  },
 };
 </script>
 
@@ -20,5 +20,13 @@ export default {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-image: url('./assets/painting.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 </style>
